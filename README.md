@@ -1,0 +1,2 @@
+# WebStatic
+Static web project
