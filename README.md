@@ -67,9 +67,6 @@ This new design has elements that have been the result of research regarding ink
 - Install with [Bower](https://bower.io/): ```bower install material-kit-react```.
 - Clone the repo: `git clone https://github.com/creativetimofficial/material-kit-react.git`.
 
-```
-test back ground
-
 
 ## Documentation
 The documentation for the Material Kit React is hosted at our [website](https://demos.creative-tim.com/material-kit-react/#/documentation/tutorial).
